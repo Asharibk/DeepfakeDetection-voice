@@ -38,16 +38,6 @@ Usage
 	•	Execute the notebook or script to process the data and train the model
 3.	Evaluate: After training, use the provided tools to evaluate the model on a test dataset.
 
-Project Structure
-deepfake-voice-detection/
-│
-├── data/                 # Directory for storing audio files
-├── notebooks/            # Jupyter notebooks for development and experiments
-├── scripts/              # Python scripts for data processing and model training
-├── models/               # Directory for storing trained models
-├── results/              # Directory for saving results and logs
-├── README.md             # Project overview and setup instructions
-
 
 
 Results
